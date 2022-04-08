@@ -1,0 +1,175 @@
+{
+    "data": {
+        "dataSets": {
+            "ufab7d657a250e3461361c982ce9b38f3816e0c4b__ecartico_20200316": {
+                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001",
+                "label": "Christiaan Huygens",
+                "schema_Person": {
+                    "type": {
+                        "items": [
+                            {
+                                "uri": "http://schema.org/Person",
+                                "label": "Person"
+                            },
+                            {
+                                "uri": "http://xmlns.com/foaf/0.1/Person",
+                                "label": "Person"
+                            }
+                        ]
+                    },
+                    "spouse": {
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10002",
+                                "label": "Suzanna Hoefnagel"
+                            }
+                        ]
+                    },
+                    "deathPlace": {
+                        "uri": "http://www.vondel.humanities.uva.nl/ecartico/places/100",
+                        "label": "Den Haag"
+                    },
+                    "hasName": {"uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#names1"},
+                    "name": {"value": "Christiaan Huygens"},
+                    "SKIP1": {
+                        "why": "double",
+                        "name": {"value": "Christiaan Huygens"}
+                    },
+                    "primaryTopic": {
+                        "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#description",
+                        "label": "description"
+                    },
+                    "hasOccupation": {
+                        "items": [
+                            {"uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#jt13497"},
+                            {"uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#jt27482"},
+                            {"uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#jt27483"}
+                        ]
+                    },
+                    "birthPlace": {
+                        "uri": "http://www.vondel.humanities.uva.nl/ecartico/places/1661",
+                        "label": "Terheijden"
+                    },
+                    "gender": {
+                        "uri": "http://schema.org/Male",
+                        "label": "Male"
+                    },
+                    "SKIP3": {
+                        "why": "double",
+                        "gender": {
+                            "uri": "http://schema.org/Male",
+                            "label": "Male"
+                        }
+                    },
+                    "children": {
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/30407",
+                                "label": "Maurits Huygens"
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/30435",
+                                "label": "Geertruid Huygens"
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/3958",
+                                "label": "Constantijn Huygens I"
+                            }
+                        ]
+                    },
+                    "sameAs": {
+                        "items": [
+                            {
+                                "uri": "http://data.bibliotheken.nl/id/dbnla/huyg010",
+                                "label": "huyg010"
+                            },
+                            {
+                                "uri": "http://data.bibliotheken.nl/id/thes/p069855773",
+                                "label": "p069855773"
+                            },
+                            {
+                                "uri": "http://viaf.org/viaf/71826217",
+                                "label": "71826217"
+                            },
+                            {
+                                "uri": "http://www.biografischportaal.nl/persoon/00817930",
+                                "label": "00817930"
+                            },
+                            {
+                                "uri": "http://www.wikidata.org/entity/Q17418337",
+                                "label": "Q17418337"
+                            }
+                        ]
+                    },
+                    "SKIP4": {
+                        "why": "double",
+                        "sameAs": {
+                            "items": [
+                                {
+                                    "uri": "http://data.bibliotheken.nl/id/dbnla/huyg010",
+                                    "label": "huyg010"
+                                },
+                                {
+                                    "uri": "http://data.bibliotheken.nl/id/thes/p069855773",
+                                    "label": "p069855773"
+                                },
+                                {
+                                    "uri": "http://viaf.org/viaf/71826217",
+                                    "label": "71826217"
+                                },
+                                {
+                                    "uri": "http://www.biografischportaal.nl/persoon/00817930",
+                                    "label": "00817930"
+                                },
+                                {
+                                    "uri": "http://www.wikidata.org/entity/Q17418337",
+                                    "label": "Q17418337"
+                                }
+                            ]
+                        }
+                    },
+                    "^spouse": {
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10002",
+                                "label": "Suzanna Hoefnagel"
+                            }
+                        ]
+                    },
+                    "^parent": {
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/30407",
+                                "label": "Maurits Huygens"
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/30435",
+                                "label": "Geertruid Huygens"
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/3958",
+                                "label": "Constantijn Huygens I"
+                            }
+                        ]
+                    },
+                    "^mainEntity": {
+                        "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#description",
+                        "label": "description"
+                    },
+                    "^partner": {
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#M928",
+                                "label": "M928"
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10002#M928",
+                                "label": "M928"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

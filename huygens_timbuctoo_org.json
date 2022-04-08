@@ -1,0 +1,561 @@
+{
+    "data": {
+        "dataSets": {
+            "ufab7d657a250e3461361c982ce9b38f3816e0c4b__ecartico_20200316": {
+                "schema_Person": {
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__isAssuredByList": {
+                        "items": []
+                    },
+                    "rdf_typeList": {
+                        "items": [
+                            {
+                                "uri": "http://schema.org/Person",
+                                "title": {"value": "http://schema.org/Person"}
+                            },
+                            {
+                                "uri": "http://xmlns.com/foaf/0.1/Person",
+                                "title": {"value": "http://xmlns.com/foaf/0.1/Person"}
+                            }
+                        ]
+                    },
+                    "schema_spouseList": {
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10002",
+                                "title": {"value": "Suzanna Hoefnagel"}
+                            }
+                        ]
+                    },
+                    "schema_deathPlace": {
+                        "uri": "http://www.vondel.humanities.uva.nl/ecartico/places/100",
+                        "title": {"value": "Den Haag"}
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__predecessorOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__residentialLandlordOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__predecessorOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__assistedAtMarriageByList": {
+                        "items": []
+                    },
+                    "https___w3id_org_pnv_hasName": {
+                        "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#names1",
+                        "title": {"value": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#names1"}
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__standSuretyForList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__nameVariants": null,
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__posedAsModelForList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__sharedHouseWithList": {
+                        "items": []
+                    },
+                    "schema_deathDate": {},
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__commissionedWorksOfArtByList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__mottoList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__soldPaintingsToList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__usedAsModelList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__baptismWitnessedByList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__boughtPaintingsFromList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__lodgerOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__courtlyPatronOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__heirOfList": {
+                        "items": []
+                    },
+                    "schema_parentList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__boughtPaintingsFromList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__courtlyClientOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__principalOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__witnessedBaptismOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__willWitnessedByList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__businessConflictWithList": {
+                        "items": []
+                    },
+                    "schema_workLocationList": {
+                        "items": []
+                    },
+                    "_inverse_owl_differentFromList": {
+                        "items": []
+                    },
+                    "schema_name": {"value": "Christiaan Huygens"},
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__pupilOfList": {
+                        "items": []
+                    },
+                    "foaf_name": {"value": "Christiaan Huygens"},
+                    "_inverse_foaf_primaryTopic": {
+                        "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#description",
+                        "title": {"value": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#description"}
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__buysTypographicalMaterialFromList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__willWitnessedByList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__borrowedTypographicalMaterialToList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__successorOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__boughtHouseFromList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__assistedAtMarriageList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__sellsPrintingPressToList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__soldHouseToList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__buysOrInheritsStockFromList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__executorForList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__sellsOrLeavesStockToList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__funeralAttendedByList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__agentForList": {
+                        "items": []
+                    },
+                    "_inverse_schema_childrenList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__portrayedList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__standSuretyForList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__domesticServantOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__employerOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__lentTypographicalMaterialToList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__isAssuredByList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__heirOf": null,
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__receivedContributionInAlbumAmicorumFromList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__employeeOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__domesticEmployerOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__courtlyClientOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__employeeOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__domesticEmployerOfList": {
+                        "items": []
+                    },
+                    "schema_hasOccupationList": {
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#jt13497",
+                                "title": {"value": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#jt13497"}
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#jt27482",
+                                "title": {"value": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#jt27482"}
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#jt27483",
+                                "title": {"value": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#jt27483"}
+                            }
+                        ]
+                    },
+                    "schema_birthPlace": {
+                        "uri": "http://www.vondel.humanities.uva.nl/ecartico/places/1661",
+                        "title": {"value": "Terheijden"}
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__businessPartnerOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__commissionedWorksOfArtByList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__receivedContributionInAlbumAmicorumFromList": {
+                        "items": []
+                    },
+                    "rdfs_label": {"value": "Christiaan Huygens"},
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__tennantOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__pseudonymList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__bequestsToList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__legalGuardianOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__sharedHouseWithList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__bequestsTo": null,
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__businessRelationWithList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__legalGuardianOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__businessRelationWithList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__assistedAtMarriageList": {
+                        "items": []
+                    },
+                    "schema_sameAsList": {
+                        "items": [
+                            {
+                                "uri": "http://data.bibliotheken.nl/id/dbnla/huyg010",
+                                "title": {"value": "http://data.bibliotheken.nl/id/dbnla/huyg010"}
+                            },
+                            {
+                                "uri": "http://data.bibliotheken.nl/id/thes/p069855773",
+                                "title": {"value": "http://data.bibliotheken.nl/id/thes/p069855773"}
+                            },
+                            {
+                                "uri": "http://viaf.org/viaf/71826217",
+                                "title": {"value": "http://viaf.org/viaf/71826217"}
+                            },
+                            {
+                                "uri": "http://www.biografischportaal.nl/persoon/00817930",
+                                "title": {"value": "http://www.biografischportaal.nl/persoon/00817930"}
+                            },
+                            {
+                                "uri": "http://www.wikidata.org/entity/Q17418337",
+                                "title": {"value": "http://www.wikidata.org/entity/Q17418337"}
+                            }
+                        ]
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__sellsTypographicalMaterialToList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__courtlyPatronOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__witnessedWillOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__domesticServantOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__businessConflictWithList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__executorFor": null,
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__employerOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__buysOrInheritsStockFromList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__contributedToAlbumAmicorumFromList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__penNameList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__nominatesAsExecutorList": {
+                        "items": []
+                    },
+                    "schema_birthDate": {},
+                    "owl_differentFromList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__portrayedByList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__wardOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__nominatesAsExecutor": null,
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__baptismWitnessedByList": {
+                        "items": []
+                    },
+                    "_inverse_schema_spouseList": {
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10002",
+                                "title": {"value": "Suzanna Hoefnagel"}
+                            }
+                        ]
+                    },
+                    "_inverse_schema_parentList": {
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/30407",
+                                "title": {"value": "Maurits Huygens"}
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/30435",
+                                "title": {"value": "Geertruid Huygens"}
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/3958",
+                                "title": {"value": "Constantijn Huygens I"}
+                            }
+                        ]
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__borrowedTypographicalMaterialToList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__soldPaintingsToList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__sellsOrLeavesStockToList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__divorcedFromList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__pupilOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__attendedFuneralOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__posedAsModelForList": {
+                        "items": []
+                    },
+                    "foaf_gender": {
+                        "uri": "http://schema.org/Male",
+                        "title": {"value": "http://schema.org/Male"}
+                    },
+                    "schema_gender": {
+                        "uri": "http://schema.org/Male",
+                        "title": {"value": "http://schema.org/Male"}
+                    },
+                    "skos_hiddenLabelList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__principalOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__witnessedBaptismOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__contributedToAlbumAmicorumFromList": {
+                        "items": []
+                    },
+                    "owl_sameAsList": {
+                        "items": [
+                            {
+                                "uri": "http://data.bibliotheken.nl/id/dbnla/huyg010",
+                                "title": {"value": "http://data.bibliotheken.nl/id/dbnla/huyg010"}
+                            },
+                            {
+                                "uri": "http://data.bibliotheken.nl/id/thes/p069855773",
+                                "title": {"value": "http://data.bibliotheken.nl/id/thes/p069855773"}
+                            },
+                            {
+                                "uri": "http://viaf.org/viaf/71826217",
+                                "title": {"value": "http://viaf.org/viaf/71826217"}
+                            },
+                            {
+                                "uri": "http://www.biografischportaal.nl/persoon/00817930",
+                                "title": {"value": "http://www.biografischportaal.nl/persoon/00817930"}
+                            },
+                            {
+                                "uri": "http://www.wikidata.org/entity/Q17418337",
+                                "title": {"value": "http://www.wikidata.org/entity/Q17418337"}
+                            }
+                        ]
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__workedUnderCommissionForList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__nickNameList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__sellsPrintingPressToList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__portrayedByList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__buysTypographicalMaterialFrom": null,
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__masterOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__lodgerOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__witnessedWillOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__buysPrintingPressFromList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__masterOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__collaboratedWithList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__usedAsModelList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__buysPrintingPressFromList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__religiousNameList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__agentForList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__divorcedFromList": {
+                        "items": []
+                    },
+                    "_inverse_schema_mainEntity": {
+                        "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#description",
+                        "title": {"value": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#description"}
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__businessPartnerOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__religionList": {
+                        "items": []
+                    },
+                    "_inverse_http___purl_org_vocab_bio_0_1_partnerList": {
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#M928",
+                                "title": {"value": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#M928"}
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10002#M928",
+                                "title": {"value": "http://www.vondel.humanities.uva.nl/ecartico/persons/10002#M928"}
+                            }
+                        ]
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__collaboratedWithList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__travellingCompanionOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__tennantOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__soldHouseToList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__sellsTypographicalMaterialTo": null,
+                    "schema_childrenList": {
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/30407",
+                                "title": {"value": "Maurits Huygens"}
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/30435",
+                                "title": {"value": "Geertruid Huygens"}
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/3958",
+                                "title": {"value": "Constantijn Huygens I"}
+                            }
+                        ]
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__portrayedList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__lentTypographicalMaterialToList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__funeralAttendedByList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__workedUnderCommissionForList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__residentialLandlordOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__attendedFuneralOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__boughtHouseFromList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__wardOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__travellingCompanionOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__landlordOfList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__assistedAtMarriageByList": {
+                        "items": []
+                    },
+                    "_inverse_http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__landlordOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__successorOfList": {
+                        "items": []
+                    },
+                    "http___www_vondel_humanities_uva_nl_ecartico_lod_vocab__bentNameList": {
+                        "items": []
+                    }
+                }
+            }
+        }
+    }
+}

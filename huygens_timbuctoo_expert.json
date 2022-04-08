@@ -1,0 +1,239 @@
+{
+    "data": {
+        "dataSets": {
+            "ufab7d657a250e3461361c982ce9b38f3816e0c4b__ecartico_20200316": {
+                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001",
+                "label": "Christiaan Huygens",
+                "schema_Person": {
+                    "uri": "http://schema.org/Person",
+                    "label": "Person",
+                    "rdf_type": {
+                        "uri": "http://www.w3.org/1999/02/22-rdf-syntax-ns#type",
+                        "label": "type",
+                        "items": [
+                            {
+                                "uri": "http://schema.org/Person",
+                                "label": "Person"
+                            },
+                            {
+                                "uri": "http://xmlns.com/foaf/0.1/Person",
+                                "label": "Person"
+                            }
+                        ]
+                    },
+                    "schema_spouse": {
+                        "uri": "http://schema.org/spouse",
+                        "label": "spouse",
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10002",
+                                "label": "Suzanna Hoefnagel"
+                            }
+                        ]
+                    },
+                    "schema_deathPlace": {
+                        "uri": "http://schema.org/deathPlace",
+                        "label": "deathPlace",
+                        "item": {
+                            "uri": "http://www.vondel.humanities.uva.nl/ecartico/places/100",
+                            "label": "Den Haag"
+                        }
+                    },
+                    "https___w3id_org_pnv_hasName": {
+                        "uri": "https://w3id.org/pnv?hasName",
+                        "label": "hasName",
+                        "item": {
+                            "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#names1",
+                            "label": "names1"
+                        }
+                    },
+                    "schema_name": {
+                        "uri": "http://schema.org/name",
+                        "label": "name",
+                        "value": "Christiaan Huygens"
+                    },
+                    "foaf_name": {
+                        "uri": "http://xmlns.com/foaf/0.1/name",
+                        "label": "name",
+                        "value": "Christiaan Huygens"
+                    },
+                    "_inverse_foaf_primaryTopic": {
+                        "uri": "http://xmlns.com/foaf/0.1/primaryTopic",
+                        "label": "primaryTopic",
+                        "item": {
+                            "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#description",
+                            "label": "description"
+                        }
+                    },
+                    "schema_hasOccupation": {
+                        "uri": "http://schema.org/hasOccupationList",
+                        "label": "hasOccupationList",
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#jt13497",
+                                "label": "jt13497"
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#jt27482",
+                                "label": "jt27482"
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#jt27483",
+                                "label": "jt27483"
+                            }
+                        ]
+                    },
+                    "schema_birthPlace": {
+                        "uri": "http://schema.org/birthPlace",
+                        "label": "birthPlace",
+                        "item": {
+                            "uri": "http://www.vondel.humanities.uva.nl/ecartico/places/1661",
+                            "label": "Terheijden"
+                        }
+                    },
+                    "rdfs_label": {
+                        "uri": "http://www.w3.org/2000/01/rdf-schema#label",
+                        "label": "label",
+                        "value": "Christiaan Huygens"
+                    },
+                    "schema_sameAs": {
+                        "uri": "http://schema.org/sameAs",
+                        "label": "sameAs",
+                        "items": [
+                            {
+                                "uri": "http://data.bibliotheken.nl/id/dbnla/huyg010",
+                                "label": "huyg010"
+                            },
+                            {
+                                "uri": "http://data.bibliotheken.nl/id/thes/p069855773",
+                                "label": "p069855773"
+                            },
+                            {
+                                "uri": "http://viaf.org/viaf/71826217",
+                                "label": "71826217"
+                            },
+                            {
+                                "uri": "http://www.biografischportaal.nl/persoon/00817930",
+                                "label": "00817930"
+                            },
+                            {
+                                "uri": "http://www.wikidata.org/entity/Q17418337",
+                                "label": "Q17418337"
+                            }
+                        ]
+                    },
+                    "_inverse_schema_spouse": {
+                        "uri": "http://schema.org/spouse",
+                        "label": "spouse",
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10002",
+                                "label": "Suzanna Hoefnagel"
+                            }
+                        ]
+                    },
+                    "_inverse_schema_parent": {
+                        "uri": "http://schema.org/parent",
+                        "label": "parent",
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/30407",
+                                "label": "Maurits Huygens"
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/30435",
+                                "label": "Geertruid Huygens"
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/3958",
+                                "label": "Constantijn Huygens I"
+                            }
+                        ]
+                    },
+                    "foaf_gender": {
+                        "uri": "http://xmlns.com/foaf/0.1/gender",
+                        "label": "gender",
+                        "item": {
+                            "uri": "http://schema.org/Male",
+                            "label": "http://schema.org/Male"
+                        }
+                    },
+                    "schema_gender": {
+                        "uri": "http://schema.org/gender",
+                        "label": "gender",
+                        "item": {
+                            "uri": "http://schema.org/Male",
+                            "label": "http://schema.org/Male"
+                        }
+                    },
+                    "owl_sameAs": {
+                        "uri": "http://www.w3.org/2002/07/owl#sameAs",
+                        "label": "sameAs",
+                        "items": [
+                            {
+                                "uri": "http://data.bibliotheken.nl/id/dbnla/huyg010",
+                                "label": "huyg010"
+                            },
+                            {
+                                "uri": "http://data.bibliotheken.nl/id/thes/p069855773",
+                                "label": "p069855773"
+                            },
+                            {
+                                "uri": "http://viaf.org/viaf/71826217",
+                                "label": "71826217"
+                            },
+                            {
+                                "uri": "http://www.biografischportaal.nl/persoon/00817930",
+                                "label": "00817930"
+                            },
+                            {
+                                "uri": "http://www.wikidata.org/entity/Q17418337",
+                                "label": "Q17418337"
+                            }
+                        ]
+                    },
+                    "_inverse_schema_mainEntity": {
+                        "uri": "http://schema.org/mainEntity",
+                        "label": "mainEntity",
+                        "item": {
+                            "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#description",
+                            "label": "description"
+                        }
+                    },
+                    "_inverse_http___purl_org_vocab_bio_0_1_partner": {
+                        "uri": "http://purl/org/vocab/bio/0.1/partner",
+                        "label": "partner",
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#M928",
+                                "label": "M928"
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10002#M928",
+                                "label": "M928"
+                            }
+                        ]
+                    },
+                    "schema_children": {
+                        "uri": "http://schema.org/children",
+                        "label": "children",
+                        "items": [
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/30407",
+                                "label": "Maurits Huygens"
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/30435",
+                                "label": "Geertruid Huygens"
+                            },
+                            {
+                                "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/3958",
+                                "label": "Constantijn Huygens I"
+                            }
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}
