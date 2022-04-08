@@ -40,7 +40,7 @@
                         }
                     },
                     "https___w3id_org_pnv_hasName": {
-                        "uri": "https://w3id.org/pnv?hasName",
+                        "uri": "https://w3id.org/pnv#hasName",
                         "label": "hasName",
                         "item": {
                             "uri": "http://www.vondel.humanities.uva.nl/ecartico/persons/10001#names1",
